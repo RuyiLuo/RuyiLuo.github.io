@@ -1,0 +1,78 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rec Arc • All posts by \"编程基础\" category",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2020/08/13/code-base/scala/Scala%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "url": "http://example.com/2020/08/13/code-base/scala/Scala%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "title": "Scala学习规划",
+            "date_published": "2020-08-13T12:45:48.000Z",
+            "content_html": "<h1 id=\"scala学习规划\"><a class=\"markdownIt-Anchor\" href=\"#scala学习规划\">#</a> Scala 学习规划</h1>\n",
+            "tags": [
+                "scala"
+            ]
+        },
+        {
+            "id": "http://example.com/2020/08/13/code-base/java/Java%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "url": "http://example.com/2020/08/13/code-base/java/Java%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "title": "Java学习规划",
+            "date_published": "2020-08-13T12:45:48.000Z",
+            "content_html": "<h1 id=\"java学习规划\"><a class=\"markdownIt-Anchor\" href=\"#java学习规划\">#</a> Java 学习规划</h1>\n",
+            "tags": [
+                "java"
+            ]
+        },
+        {
+            "id": "http://example.com/2020/08/13/code-base/python/Python%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "url": "http://example.com/2020/08/13/code-base/python/Python%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "title": "Python学习规划",
+            "date_published": "2020-08-13T12:45:48.000Z",
+            "content_html": "<h1 id=\"python学习规划\"><a class=\"markdownIt-Anchor\" href=\"#python学习规划\">#</a> Python 学习规划</h1>\n",
+            "tags": [
+                "python"
+            ]
+        },
+        {
+            "id": "http://example.com/2020/08/13/code-base/web-base/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "url": "http://example.com/2020/08/13/code-base/web-base/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "title": "前端学习规划",
+            "date_published": "2020-08-13T12:45:48.000Z",
+            "content_html": "<h1 id=\"前端学习规划\"><a class=\"markdownIt-Anchor\" href=\"#前端学习规划\">#</a> 前端学习规划</h1>\n",
+            "tags": [
+                "前端三大件"
+            ]
+        },
+        {
+            "id": "http://example.com/2020/08/13/data-manage/data-acquisition/Kafka%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "url": "http://example.com/2020/08/13/data-manage/data-acquisition/Kafka%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "title": "Kafka学习规划",
+            "date_published": "2020-08-13T12:45:48.000Z",
+            "content_html": "<h1 id=\"kafka学习规划\"><a class=\"markdownIt-Anchor\" href=\"#kafka学习规划\">#</a> Kafka 学习规划</h1>\n",
+            "tags": [
+                "数据流"
+            ]
+        },
+        {
+            "id": "http://example.com/2020/08/13/data-manage/data-storge/mysql/MySQL%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "url": "http://example.com/2020/08/13/data-manage/data-storge/mysql/MySQL%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "title": "MySQL学习规划",
+            "date_published": "2020-08-13T12:45:48.000Z",
+            "content_html": "<h1 id=\"mysql学习规划\"><a class=\"markdownIt-Anchor\" href=\"#mysql学习规划\">#</a> MySQL 学习规划</h1>\n",
+            "tags": [
+                "数据存储"
+            ]
+        },
+        {
+            "id": "http://example.com/2020/08/13/data-manage/data-storge/redis/Redis%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "url": "http://example.com/2020/08/13/data-manage/data-storge/redis/Redis%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "title": "Redis学习规划",
+            "date_published": "2020-08-13T12:45:48.000Z",
+            "content_html": "<h1 id=\"redis学习规划\"><a class=\"markdownIt-Anchor\" href=\"#redis学习规划\">#</a> Redis 学习规划</h1>\n",
+            "tags": [
+                "数据存储"
+            ]
+        }
+    ]
+}

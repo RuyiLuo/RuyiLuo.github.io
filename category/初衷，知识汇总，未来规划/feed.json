@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rec Arc • All posts by \"初衷，知识汇总，未来规划\" category",
+    "description": "",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/",
+            "url": "http://example.com/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/",
+            "title": "新人必看",
+            "date_published": "2020-10-29T08:43:00.000Z",
+            "content_html": "<p>这是一个开源项目，该项目的目的是降低我们学习推荐系统框架的门槛，会将一整套推荐系统所需要的知识技能都整理成笔记以供大家一起学习，当前开源项目才刚刚开始希望自己可以将将相关的内容沉淀成知识体系。</p>\n<!---more--->\n<h1 id=\"初衷\"><a class=\"markdownIt-Anchor\" href=\"#初衷\">#</a> 初衷</h1>\n<p>xxx</p>\n<h1 id=\"计划\"><a class=\"markdownIt-Anchor\" href=\"#计划\">#</a> 计划</h1>\n<p>xxx</p>\n<h1 id=\"知识汇总\"><a class=\"markdownIt-Anchor\" href=\"#知识汇总\">#</a> 知识汇总</h1>\n<p>xxx</p>\n",
+            "tags": [
+                "初衷",
+                "知识",
+                "规划"
+            ]
+        }
+    ]
+}
