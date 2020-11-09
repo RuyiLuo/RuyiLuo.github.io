@@ -4,22 +4,22 @@
     <title>Rec Arc • Posts by &#34;召回&#34; tag</title>
     <link href="http://example.com" />
     <updated>2020-08-13T12:45:48.000Z</updated>
-    <category term="flink" />
-    <category term="hadoop" />
-    <category term="spark" />
-    <category term="scala" />
-    <category term="java" />
-    <category term="python" />
-    <category term="前端三大件" />
-    <category term="数据流" />
-    <category term="DL框架" />
-    <category term="召回" />
-    <category term="排序" />
-    <category term="数据存储" />
     <category term="初衷" />
     <category term="知识" />
     <category term="规划" />
+    <category term="flink" />
     <category term="名单" />
+    <category term="spark" />
+    <category term="hadoop" />
+    <category term="DL框架" />
+    <category term="排序" />
+    <category term="java" />
+    <category term="召回" />
+    <category term="python" />
+    <category term="scala" />
+    <category term="前端三大件" />
+    <category term="数据流" />
+    <category term="数据存储" />
     <entry>
         <id>http://example.com/2020/08/13/rec-model/recall/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E5%8F%AC%E5%9B%9E%E7%AD%96%E7%95%A5/</id>
         <title>基于协同过滤的召回策略</title>

@@ -7,22 +7,22 @@
         <language>en</language>
         <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
         <lastBuildDate>Thu, 13 Aug 2020 20:45:48 +0800</lastBuildDate>
-        <category>flink</category>
-        <category>hadoop</category>
-        <category>spark</category>
-        <category>scala</category>
-        <category>java</category>
-        <category>python</category>
-        <category>前端三大件</category>
-        <category>数据流</category>
-        <category>DL框架</category>
-        <category>召回</category>
-        <category>排序</category>
-        <category>数据存储</category>
         <category>初衷</category>
         <category>知识</category>
         <category>规划</category>
+        <category>flink</category>
         <category>名单</category>
+        <category>spark</category>
+        <category>hadoop</category>
+        <category>DL框架</category>
+        <category>排序</category>
+        <category>java</category>
+        <category>召回</category>
+        <category>python</category>
+        <category>scala</category>
+        <category>前端三大件</category>
+        <category>数据流</category>
+        <category>数据存储</category>
         <item>
             <guid isPermalink="true">http://example.com/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/</guid>
             <title>Keras基础(一)</title>
