@@ -5,8 +5,8 @@
         <link>http://example.com</link>
         <description></description>
         <language>en</language>
-        <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
-        <lastBuildDate>Thu, 13 Aug 2020 20:45:48 +0800</lastBuildDate>
+        <pubDate>Thu, 29 Oct 2020 19:03:11 +0800</pubDate>
+        <lastBuildDate>Thu, 29 Oct 2020 19:03:11 +0800</lastBuildDate>
         <category>flink</category>
         <category>hadoop</category>
         <category>spark</category>
@@ -23,6 +23,46 @@
         <category>知识</category>
         <category>规划</category>
         <category>名单</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
+            <title>Flink基本概念</title>
+            <link>http://example.com/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
+            <category>flink</category>
+            <pubDate>Thu, 29 Oct 2020 19:03:11 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这是 Flink 学习的第一篇文章，这篇文章主要是了解 Flink 是什么，以及 Flink 中重要的基本概念，为后续 Flink 开发打下基础。&lt;/p&gt;
+&lt;!---more---&gt;
+&lt;h2 id=&#34;flink是什么&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flink是什么&#34;&gt;#&lt;/a&gt; Flink 是什么？&lt;/h2&gt;
+&lt;p&gt;Apache Flink 是一个&lt;mark&gt;分布式大数据处理引擎&lt;/mark&gt;，可对&lt;mark&gt;有限数据流和无限数据流&lt;/mark&gt;进行&lt;mark&gt;有状态或无状态&lt;/mark&gt;的计算，能够&lt;mark&gt;部署在各种集群环境&lt;/mark&gt;，对&lt;mark&gt;各种规模大小的数据&lt;/mark&gt;进行&lt;mark&gt;快速计算&lt;/mark&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;Flink 具备统一的框架处理有界和无界两种数据流的能力 (流批统一)。&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;分布式大数据处理引擎还有哪些？与那些处理引擎相比较，Flink 有什么优势？&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;总结之后再写&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;flink中重要的几个基本概念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flink中重要的几个基本概念&#34;&gt;#&lt;/a&gt; Flink 中重要的几个基本概念&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Stream:&lt;/strong&gt; 流，主要分为有限数据流和无限数据流，两者的区别在于&lt;mark&gt;无限数据流的数据会随时间的推演而持续增加，计算持续进行且不存在结束的状态，而有限数据流数据大小固定，计算最终会完成并处于结束的状态。&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;State:&lt;/strong&gt; 状态是计算过程中的&lt;mark&gt;数据信息&lt;/mark&gt;，在&lt;mark&gt;容错恢复和 Checkpoint&lt;/mark&gt; 中有重要的作用，流计算在本质上是增量处理的过程，需要不断的查询保持数据的状态；另外，为了保证&lt;mark&gt; Exactly- once 语义&lt;/mark&gt;，需要&lt;mark&gt;数据能够写入到状态中&lt;/mark&gt;；而&lt;mark&gt;持久化存储&lt;/mark&gt;，可以保证在整个分布式系统&lt;mark&gt;运行失败或者挂掉&lt;/mark&gt;的情况下做到 Exactly- once，这是状态的另外一个价值。(&lt;strong&gt;总之就是说为了更好的处理流数据，需要给数据添加一个状态，方便识别该数据是否已经被处理过，以及当出现故障的时候还知道从那一时刻的数据重新开始计算&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;**Time: ** Flink 中关于时间的分类有：Event time、Ingestion time、Processing time，分别表示的是&lt;mark&gt;事件发生的时间，数据输入到 Flink 的时间&lt;/mark&gt;，以及&lt;mark&gt;数据经过处理时的机器时间&lt;/mark&gt;，Flink 的无限数据流是一个持续的过程，&lt;mark&gt;时间是我们判断业务状态是否滞后，数据处理是否及时的重要依据。&lt;/mark&gt; &lt;strong&gt;由于时间这个概念在 Flink 中是非常重要的后面还会详细的说明这些时间的区别与联系。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;API:&lt;/strong&gt;  API 通常分为三层，由上而下可分为&lt;mark&gt; SQL / Table API、DataStream API、ProcessFunction 三层&lt;/mark&gt;，API 的表达能力及业务抽象能力都非常强大，但&lt;strong&gt;越接近 SQL 层，表达能力会逐步减弱，抽象能力会增强&lt;/strong&gt;，反之，&lt;strong&gt;ProcessFunction 层 API 的表达能力非常强，可以进行多种灵活方便的操作，但抽象能力也相对越小&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;time补充&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#time补充&#34;&gt;#&lt;/a&gt; Time (补充)&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://ververica.cn/wp-content/uploads/2019/07/20.-%E5%B9%BB%E7%81%AF%E7%89%8742.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Event Time:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;事件发生的时间，一般是指数据本身携带的时间，这个时间是数据进入 Flink 之前就确定的，并且可以从每个事件中获取到事件的时间戳。(Event Time 中，时间取决于数据，与其他无关)。Event Time 程序必须指定如何生成 Event Time 水印，这表示 Event Time 进度的机制&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Ingestion time:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;事件进入 Flink 的时间，在源操作处，每个事件将源的当前时间作为时间戳，并且基于时间 (如窗口时间) 的操作会利用这个时间戳。Ingestion Time 在概念上位于 Event Time 和 Processing Time 之间&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Processing time:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;事件被处理时机器的系统时间，当流程序在 Processing Time 上运行时，所有基于时间的操作 (如时间窗口) 将会使用当时机器的系统时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;flink的应用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flink的应用&#34;&gt;#&lt;/a&gt; Flink 的应用&lt;/h2&gt;
+&lt;h1 id=&#34;参考资料&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参考资料&#34;&gt;#&lt;/a&gt; 参考资料&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92ZXJ2ZXJpY2EuY24vZGV2ZWxvcGVycy9mbGluay1iYXNpYy10dXRvcmlhbC0xLWJhc2ljLWNvbmNlcHQv&#34;&gt;https://ververica.cn/developers/flink-basic-tutorial-1-basic-concept/&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy41NHRpYW56aGlzaGVuZy5jbi8yMDE4LzEyLzExL0ZsaW5rLXRpbWUv&#34;&gt;http://www.54tianzhisheng.cn/2018/12/11/Flink-time/&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2020/08/13/big-data/flink/Flink%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>Flink学习规划</title>

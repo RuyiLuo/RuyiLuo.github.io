@@ -5,8 +5,8 @@
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/2020/08/13/data-manage/data-storge/mysql/MySQL%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
-            "url": "http://example.com/2020/08/13/data-manage/data-storge/mysql/MySQL%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "id": "http://example.com/2020/08/13/code-base/data-manage/data-storge/mysql/MySQL%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "url": "http://example.com/2020/08/13/code-base/data-manage/data-storge/mysql/MySQL%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
             "title": "MySQL学习规划",
             "date_published": "2020-08-13T12:45:48.000Z",
             "content_html": "<h1 id=\"mysql学习规划\"><a class=\"markdownIt-Anchor\" href=\"#mysql学习规划\">#</a> MySQL 学习规划</h1>\n",
