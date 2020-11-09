@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Rec Arc • All posts by \"贡献人员名单\" category",
     "description": "",
-    "home_page_url": "http://example.com",
+    "home_page_url": "https://ruyiluo.github.io",
     "items": [
         {
-            "id": "http://example.com/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/",
-            "url": "http://example.com/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/",
+            "id": "https://ruyiluo.github.io/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/",
+            "url": "https://ruyiluo.github.io/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/",
             "title": "贡献人员名单",
             "date_published": "2020-10-29T02:43:00.000Z",
             "content_html": "<p>这里将会列出对本开源项目作出贡献的人员名单。</p>\n<!---more--->\n<h1 id=\"贡献人员\"><a class=\"markdownIt-Anchor\" href=\"#贡献人员\">#</a> 贡献人员</h1>\n",

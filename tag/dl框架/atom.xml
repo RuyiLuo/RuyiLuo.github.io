@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://ruyiluo.github.io</id>
     <title>Rec Arc • Posts by &#34;dl框架&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://ruyiluo.github.io" />
     <updated>2020-08-13T12:45:48.000Z</updated>
     <category term="初衷" />
     <category term="知识" />
@@ -21,9 +21,9 @@
     <category term="数据流" />
     <category term="数据存储" />
     <entry>
-        <id>http://example.com/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/</id>
+        <id>https://ruyiluo.github.io/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/</id>
         <title>Keras基础(一)</title>
-        <link rel="alternate" href="http://example.com/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/"/>
+        <link rel="alternate" href="https://ruyiluo.github.io/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/"/>
         <content type="html">&lt;h1 id=&#34;keras&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#keras&#34;&gt;#&lt;/a&gt; Keras&lt;/h1&gt;
 </content>
         <category term="DL框架" />

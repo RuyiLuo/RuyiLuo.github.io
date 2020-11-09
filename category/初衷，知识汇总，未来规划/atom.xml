@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://ruyiluo.github.io</id>
     <title>Rec Arc • Posts by &#34;初衷，知识汇总，未来规划&#34; category</title>
-    <link href="http://example.com" />
+    <link href="https://ruyiluo.github.io" />
     <updated>2020-10-29T08:43:00.000Z</updated>
     <category term="初衷" />
     <category term="知识" />
@@ -21,9 +21,9 @@
     <category term="数据流" />
     <category term="数据存储" />
     <entry>
-        <id>http://example.com/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/</id>
+        <id>https://ruyiluo.github.io/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/</id>
         <title>新人必看</title>
-        <link rel="alternate" href="http://example.com/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/"/>
+        <link rel="alternate" href="https://ruyiluo.github.io/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/"/>
         <content type="html">&lt;p&gt;这是一个开源项目，该项目的目的是降低我们学习推荐系统框架的门槛，会将一整套推荐系统所需要的知识技能都整理成笔记以供大家一起学习，当前开源项目才刚刚开始希望自己可以将将相关的内容沉淀成知识体系。&lt;/p&gt;
 &lt;!---more---&gt;
 &lt;h1 id=&#34;初衷&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#初衷&#34;&gt;#&lt;/a&gt; 初衷&lt;/h1&gt;

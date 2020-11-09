@@ -2,9 +2,9 @@
 <rss version="2.0">
     <channel>
         <title>Rec Arc • Posts by &#34;贡献人员名单&#34; category</title>
-        <link>http://example.com</link>
+        <link>https://ruyiluo.github.io</link>
         <description></description>
-        <language>en</language>
+        <language>zh</language>
         <pubDate>Thu, 29 Oct 2020 10:43:00 +0800</pubDate>
         <lastBuildDate>Thu, 29 Oct 2020 10:43:00 +0800</lastBuildDate>
         <category>初衷</category>
@@ -24,9 +24,9 @@
         <category>数据流</category>
         <category>数据存储</category>
         <item>
-            <guid isPermalink="true">http://example.com/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/</guid>
             <title>贡献人员名单</title>
-            <link>http://example.com/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/</link>
+            <link>https://ruyiluo.github.io/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/</link>
             <category>名单</category>
             <pubDate>Thu, 29 Oct 2020 10:43:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这里将会列出对本开源项目作出贡献的人员名单。&lt;/p&gt;

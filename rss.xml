@@ -2,9 +2,9 @@
 <rss version="2.0">
     <channel>
         <title>Rec Arc</title>
-        <link>http://example.com</link>
+        <link>https://ruyiluo.github.io</link>
         <description></description>
-        <language>en</language>
+        <language>zh</language>
         <pubDate>Sun, 01 Nov 2020 15:08:46 +0800</pubDate>
         <lastBuildDate>Sun, 01 Nov 2020 15:08:46 +0800</lastBuildDate>
         <category>初衷</category>
@@ -24,9 +24,9 @@
         <category>数据流</category>
         <category>数据存储</category>
         <item>
-            <guid isPermalink="true">http://example.com/2020/11/01/big-data/flink/Flink%E5%90%AF%E8%88%AA/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/11/01/big-data/flink/Flink%E5%90%AF%E8%88%AA/</guid>
             <title></title>
-            <link>http://example.com/2020/11/01/big-data/flink/Flink%E5%90%AF%E8%88%AA/</link>
+            <link>https://ruyiluo.github.io/2020/11/01/big-data/flink/Flink%E5%90%AF%E8%88%AA/</link>
             <pubDate>Sun, 01 Nov 2020 15:08:46 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cryl%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20201101150614987.png&#34; alt=&#34;image-20201101150614987&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;flink启航&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flink启航&#34;&gt;#&lt;/a&gt; Flink 启航&lt;/h1&gt;
@@ -71,9 +71,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/10/31/big-data/flink/Flink%E5%AE%89%E8%A3%85%E4%B8%8E%E9%83%A8%E7%BD%B2/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/10/31/big-data/flink/Flink%E5%AE%89%E8%A3%85%E4%B8%8E%E9%83%A8%E7%BD%B2/</guid>
             <title></title>
-            <link>http://example.com/2020/10/31/big-data/flink/Flink%E5%AE%89%E8%A3%85%E4%B8%8E%E9%83%A8%E7%BD%B2/</link>
+            <link>https://ruyiluo.github.io/2020/10/31/big-data/flink/Flink%E5%AE%89%E8%A3%85%E4%B8%8E%E9%83%A8%E7%BD%B2/</link>
             <pubDate>Sat, 31 Oct 2020 10:30:41 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;flink安装与部署&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flink安装与部署&#34;&gt;#&lt;/a&gt; Flink 安装与部署&lt;/h1&gt;
 &lt;p&gt;源码编译&lt;/p&gt;
@@ -81,9 +81,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
             <title>Flink基本概念</title>
-            <link>http://example.com/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
+            <link>https://ruyiluo.github.io/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
             <category>flink</category>
             <pubDate>Thu, 29 Oct 2020 19:03:11 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这是 Flink 学习的第一篇文章，这篇文章主要是了解 Flink 是什么，以及 Flink 中重要的基本概念，为后续 Flink 开发打下基础。&lt;/p&gt;
@@ -121,9 +121,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/</guid>
             <title>新人必看</title>
-            <link>http://example.com/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/</link>
+            <link>https://ruyiluo.github.io/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/</link>
             <category>初衷</category>
             <category>知识</category>
             <category>规划</category>
@@ -139,9 +139,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/</guid>
             <title>贡献人员名单</title>
-            <link>http://example.com/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/</link>
+            <link>https://ruyiluo.github.io/2020/10/29/%E8%B4%A1%E7%8C%AE%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95/</link>
             <category>名单</category>
             <pubDate>Thu, 29 Oct 2020 10:43:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这里将会列出对本开源项目作出贡献的人员名单。&lt;/p&gt;
@@ -150,45 +150,45 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/big-data/flink/Flink%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/big-data/flink/Flink%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>Flink学习规划</title>
-            <link>http://example.com/2020/08/13/big-data/flink/Flink%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/big-data/flink/Flink%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>flink</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;flink学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flink学习规划&#34;&gt;#&lt;/a&gt; Flink 学习规划&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/big-data/spark/Spark%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/big-data/spark/Spark%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>Spark学习规划</title>
-            <link>http://example.com/2020/08/13/big-data/spark/Spark%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/big-data/spark/Spark%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>spark</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;spark学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#spark学习规划&#34;&gt;#&lt;/a&gt; Spark 学习规划&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/big-data/hadoop/Hadoop%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/big-data/hadoop/Hadoop%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>Hadoop学习规划</title>
-            <link>http://example.com/2020/08/13/big-data/hadoop/Hadoop%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/big-data/hadoop/Hadoop%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>hadoop</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;hadoop学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hadoop学习规划&#34;&gt;#&lt;/a&gt; Hadoop 学习规划&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/</guid>
             <title>Keras基础(一)</title>
-            <link>http://example.com/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/</link>
             <category>DL框架</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;keras&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#keras&#34;&gt;#&lt;/a&gt; Keras&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/rec-model/rank/%E5%9F%BA%E4%BA%8EGBDT+LR%E7%9A%84%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9E%8B/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/rec-model/rank/%E5%9F%BA%E4%BA%8EGBDT+LR%E7%9A%84%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9E%8B/</guid>
             <title>基于GBDT+LR的排序模型</title>
-            <link>http://example.com/2020/08/13/rec-model/rank/%E5%9F%BA%E4%BA%8EGBDT+LR%E7%9A%84%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9E%8B/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/rec-model/rank/%E5%9F%BA%E4%BA%8EGBDT+LR%E7%9A%84%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9E%8B/</link>
             <category>排序</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;lr&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#lr&#34;&gt;#&lt;/a&gt; LR&lt;/h1&gt;
@@ -196,18 +196,18 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/code-base/java/Java%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/code-base/java/Java%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>Java学习规划</title>
-            <link>http://example.com/2020/08/13/code-base/java/Java%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/code-base/java/Java%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>java</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;java学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#java学习规划&#34;&gt;#&lt;/a&gt; Java 学习规划&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/rec-model/recall/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E5%8F%AC%E5%9B%9E%E7%AD%96%E7%95%A5/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/rec-model/recall/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E5%8F%AC%E5%9B%9E%E7%AD%96%E7%95%A5/</guid>
             <title>基于协同过滤的召回策略</title>
-            <link>http://example.com/2020/08/13/rec-model/recall/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E5%8F%AC%E5%9B%9E%E7%AD%96%E7%95%A5/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/rec-model/recall/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E5%8F%AC%E5%9B%9E%E7%AD%96%E7%95%A5/</link>
             <category>召回</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;h1&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#h1&#34;&gt;#&lt;/a&gt; H1&lt;/h1&gt;
@@ -215,54 +215,54 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/code-base/python/Python%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/code-base/python/Python%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>Python学习规划</title>
-            <link>http://example.com/2020/08/13/code-base/python/Python%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/code-base/python/Python%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>python</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;python学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python学习规划&#34;&gt;#&lt;/a&gt; Python 学习规划&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/code-base/scala/Scala%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/code-base/scala/Scala%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>Scala学习规划</title>
-            <link>http://example.com/2020/08/13/code-base/scala/Scala%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/code-base/scala/Scala%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>scala</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;scala学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#scala学习规划&#34;&gt;#&lt;/a&gt; Scala 学习规划&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/code-base/web-base/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/code-base/web-base/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>前端学习规划</title>
-            <link>http://example.com/2020/08/13/code-base/web-base/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/code-base/web-base/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>前端三大件</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前端学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前端学习规划&#34;&gt;#&lt;/a&gt; 前端学习规划&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/code-base/data-manage/data-acquisition/Kafka%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/code-base/data-manage/data-acquisition/Kafka%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>Kafka学习规划</title>
-            <link>http://example.com/2020/08/13/code-base/data-manage/data-acquisition/Kafka%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/code-base/data-manage/data-acquisition/Kafka%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>数据流</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;kafka学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#kafka学习规划&#34;&gt;#&lt;/a&gt; Kafka 学习规划&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/code-base/data-manage/data-storge/redis/Redis%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/code-base/data-manage/data-storge/redis/Redis%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>Redis学习规划</title>
-            <link>http://example.com/2020/08/13/code-base/data-manage/data-storge/redis/Redis%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/code-base/data-manage/data-storge/redis/Redis%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>数据存储</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;redis学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#redis学习规划&#34;&gt;#&lt;/a&gt; Redis 学习规划&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/code-base/data-manage/data-storge/mysql/MySQL%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/code-base/data-manage/data-storge/mysql/MySQL%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>MySQL学习规划</title>
-            <link>http://example.com/2020/08/13/code-base/data-manage/data-storge/mysql/MySQL%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/code-base/data-manage/data-storge/mysql/MySQL%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>数据存储</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;mysql学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#mysql学习规划&#34;&gt;#&lt;/a&gt; MySQL 学习规划&lt;/h1&gt;

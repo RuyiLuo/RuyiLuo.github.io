@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://ruyiluo.github.io</id>
     <title>Rec Arc • Posts by &#34;召回&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://ruyiluo.github.io" />
     <updated>2020-08-13T12:45:48.000Z</updated>
     <category term="初衷" />
     <category term="知识" />
@@ -21,9 +21,9 @@
     <category term="数据流" />
     <category term="数据存储" />
     <entry>
-        <id>http://example.com/2020/08/13/rec-model/recall/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E5%8F%AC%E5%9B%9E%E7%AD%96%E7%95%A5/</id>
+        <id>https://ruyiluo.github.io/2020/08/13/rec-model/recall/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E5%8F%AC%E5%9B%9E%E7%AD%96%E7%95%A5/</id>
         <title>基于协同过滤的召回策略</title>
-        <link rel="alternate" href="http://example.com/2020/08/13/rec-model/recall/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E5%8F%AC%E5%9B%9E%E7%AD%96%E7%95%A5/"/>
+        <link rel="alternate" href="https://ruyiluo.github.io/2020/08/13/rec-model/recall/%E5%9F%BA%E4%BA%8E%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E5%8F%AC%E5%9B%9E%E7%AD%96%E7%95%A5/"/>
         <content type="html">&lt;h1 id=&#34;h1&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#h1&#34;&gt;#&lt;/a&gt; H1&lt;/h1&gt;
 &lt;h1 id=&#34;h2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#h2&#34;&gt;#&lt;/a&gt; H2&lt;/h1&gt;
 </content>

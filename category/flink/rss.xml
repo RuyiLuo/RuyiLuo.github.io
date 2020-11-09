@@ -2,9 +2,9 @@
 <rss version="2.0">
     <channel>
         <title>Rec Arc • Posts by &#34;flink&#34; category</title>
-        <link>http://example.com</link>
+        <link>https://ruyiluo.github.io</link>
         <description></description>
-        <language>en</language>
+        <language>zh</language>
         <pubDate>Thu, 29 Oct 2020 19:03:11 +0800</pubDate>
         <lastBuildDate>Thu, 29 Oct 2020 19:03:11 +0800</lastBuildDate>
         <category>初衷</category>
@@ -24,9 +24,9 @@
         <category>数据流</category>
         <category>数据存储</category>
         <item>
-            <guid isPermalink="true">http://example.com/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
             <title>Flink基本概念</title>
-            <link>http://example.com/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
+            <link>https://ruyiluo.github.io/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</link>
             <category>flink</category>
             <pubDate>Thu, 29 Oct 2020 19:03:11 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这是 Flink 学习的第一篇文章，这篇文章主要是了解 Flink 是什么，以及 Flink 中重要的基本概念，为后续 Flink 开发打下基础。&lt;/p&gt;
@@ -64,9 +64,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/big-data/flink/Flink%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/08/13/big-data/flink/Flink%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
             <title>Flink学习规划</title>
-            <link>http://example.com/2020/08/13/big-data/flink/Flink%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
+            <link>https://ruyiluo.github.io/2020/08/13/big-data/flink/Flink%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
             <category>flink</category>
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;flink学习规划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flink学习规划&#34;&gt;#&lt;/a&gt; Flink 学习规划&lt;/h1&gt;

@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Rec Arc • All posts by \"数据流\" tag",
     "description": "",
-    "home_page_url": "http://example.com",
+    "home_page_url": "https://ruyiluo.github.io",
     "items": [
         {
-            "id": "http://example.com/2020/08/13/code-base/data-manage/data-acquisition/Kafka%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
-            "url": "http://example.com/2020/08/13/code-base/data-manage/data-acquisition/Kafka%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "id": "https://ruyiluo.github.io/2020/08/13/code-base/data-manage/data-acquisition/Kafka%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
+            "url": "https://ruyiluo.github.io/2020/08/13/code-base/data-manage/data-acquisition/Kafka%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
             "title": "Kafka学习规划",
             "date_published": "2020-08-13T12:45:48.000Z",
             "content_html": "<h1 id=\"kafka学习规划\"><a class=\"markdownIt-Anchor\" href=\"#kafka学习规划\">#</a> Kafka 学习规划</h1>\n",

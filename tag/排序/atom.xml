@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://ruyiluo.github.io</id>
     <title>Rec Arc • Posts by &#34;排序&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="https://ruyiluo.github.io" />
     <updated>2020-08-13T12:45:48.000Z</updated>
     <category term="初衷" />
     <category term="知识" />
@@ -21,9 +21,9 @@
     <category term="数据流" />
     <category term="数据存储" />
     <entry>
-        <id>http://example.com/2020/08/13/rec-model/rank/%E5%9F%BA%E4%BA%8EGBDT+LR%E7%9A%84%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9E%8B/</id>
+        <id>https://ruyiluo.github.io/2020/08/13/rec-model/rank/%E5%9F%BA%E4%BA%8EGBDT+LR%E7%9A%84%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9E%8B/</id>
         <title>基于GBDT+LR的排序模型</title>
-        <link rel="alternate" href="http://example.com/2020/08/13/rec-model/rank/%E5%9F%BA%E4%BA%8EGBDT+LR%E7%9A%84%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9E%8B/"/>
+        <link rel="alternate" href="https://ruyiluo.github.io/2020/08/13/rec-model/rank/%E5%9F%BA%E4%BA%8EGBDT+LR%E7%9A%84%E6%8E%92%E5%BA%8F%E6%A8%A1%E5%9E%8B/"/>
         <content type="html">&lt;h1 id=&#34;lr&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#lr&#34;&gt;#&lt;/a&gt; LR&lt;/h1&gt;
 &lt;h1 id=&#34;gbdt&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#gbdt&#34;&gt;#&lt;/a&gt; GBDT&lt;/h1&gt;
 </content>

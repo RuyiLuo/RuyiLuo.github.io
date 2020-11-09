@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Rec Arc • All posts by \"tensorflow-keras\" category",
     "description": "",
-    "home_page_url": "http://example.com",
+    "home_page_url": "https://ruyiluo.github.io",
     "items": [
         {
-            "id": "http://example.com/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/",
-            "url": "http://example.com/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/",
+            "id": "https://ruyiluo.github.io/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/",
+            "url": "https://ruyiluo.github.io/2020/08/13/deep-learning/tensorflow-keras/Keras%E5%9F%BA%E7%A1%80(%E4%B8%80)/",
             "title": "Keras基础(一)",
             "date_published": "2020-08-13T12:45:48.000Z",
             "content_html": "<h1 id=\"keras\"><a class=\"markdownIt-Anchor\" href=\"#keras\">#</a> Keras</h1>\n",
