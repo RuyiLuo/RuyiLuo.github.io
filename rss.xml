@@ -5,8 +5,8 @@
         <link>https://ruyiluo.github.io</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Sun, 01 Nov 2020 15:08:46 +0800</pubDate>
-        <lastBuildDate>Sun, 01 Nov 2020 15:08:46 +0800</lastBuildDate>
+        <pubDate>Thu, 29 Oct 2020 19:03:11 +0800</pubDate>
+        <lastBuildDate>Thu, 29 Oct 2020 19:03:11 +0800</lastBuildDate>
         <category>初衷</category>
         <category>知识</category>
         <category>规划</category>
@@ -23,63 +23,6 @@
         <category>前端三大件</category>
         <category>数据流</category>
         <category>数据存储</category>
-        <item>
-            <guid isPermalink="true">https://ruyiluo.github.io/2020/11/01/big-data/flink/Flink%E5%90%AF%E8%88%AA/</guid>
-            <title></title>
-            <link>https://ruyiluo.github.io/2020/11/01/big-data/flink/Flink%E5%90%AF%E8%88%AA/</link>
-            <pubDate>Sun, 01 Nov 2020 15:08:46 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cryl%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20201101150614987.png&#34; alt=&#34;image-20201101150614987&#34;&gt;&lt;/p&gt;
-&lt;h1 id=&#34;flink启航&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flink启航&#34;&gt;#&lt;/a&gt; Flink 启航&lt;/h1&gt;
-&lt;h2 id=&#34;1-flink应用场景&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-flink应用场景&#34;&gt;#&lt;/a&gt; 1. Flink 应用场景&lt;/h2&gt;
-&lt;h3 id=&#34;事件驱动型应用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#事件驱动型应用&#34;&gt;#&lt;/a&gt; 事件驱动型应用&lt;/h3&gt;
-&lt;p&gt;事件驱动型应用是一类具有状态的应用，该应用会根据事件流中的&lt;strong&gt;事件触发计算、更新状态或进行外部系统操作&lt;/strong&gt;。事件驱动型应用常见于实时计算业务中，例如：&lt;strong&gt;实时推荐、金融反欺诈、实时规则预警&lt;/strong&gt;等。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;传统架构&lt;/strong&gt;&lt;/p&gt;
-&lt;img data-src=&#34;C:\Users\ryl\AppData\Roaming\Typora\typora-user-images\image-20201101152049038.png&#34; alt=&#34;image-20201101152049038&#34; style=&#34;zoom:67%;&#34; /&gt;
-&lt;p&gt;&lt;strong&gt;集成 Flink 架构&lt;/strong&gt;&lt;/p&gt;
-&lt;img data-src=&#34;C:\Users\ryl\AppData\Roaming\Typora\typora-user-images\image-20201101152255370.png&#34; alt=&#34;image-20201101152255370&#34; style=&#34;zoom: 67%;&#34; /&gt;
-&lt;p&gt;&lt;strong&gt;传统架构和集成 Flink 架构的区别&lt;/strong&gt;&lt;/p&gt;
-&lt;img data-src=&#34;C:\Users\ryl\AppData\Roaming\Typora\typora-user-images\image-20201101152457233.png&#34; alt=&#34;image-20201101152457233&#34; style=&#34;zoom:67%;&#34; /&gt;
-&lt;p&gt;Flink 机制保障：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;纯流计算框架&lt;/li&gt;
-&lt;li&gt;丰富的状态支持&lt;/li&gt;
-&lt;li&gt;多窗口语义支持&lt;/li&gt;
-&lt;li&gt;灵活的 Timer 和 Trigger 机制&lt;/li&gt;
-&lt;li&gt;强大的 CEP 支持&lt;/li&gt;
-&lt;li&gt;状态兼容的作业升级&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;数据分析型应用&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;数据管道 &amp;amp; ETL 型应用&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;2flink优势特点&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2flink优势特点&#34;&gt;#&lt;/a&gt; 2.Flink 优势特点&lt;/h2&gt;
-&lt;p&gt;友好的 APIs&lt;/p&gt;
-&lt;p&gt;优秀的性能&lt;/p&gt;
-&lt;p&gt;高可靠的正确性&lt;/p&gt;
-&lt;p&gt;海量数据的计算&lt;/p&gt;
-&lt;p&gt;灵活便捷的运维&lt;/p&gt;
-&lt;h2 id=&#34;3-flink组件栈&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3-flink组件栈&#34;&gt;#&lt;/a&gt; 3. Flink 组件栈&lt;/h2&gt;
-&lt;p&gt;部署层&lt;/p&gt;
-&lt;p&gt;Runtime 层&lt;/p&gt;
-&lt;p&gt;优化层&lt;/p&gt;
-&lt;p&gt;API 层&lt;/p&gt;
-&lt;p&gt;语言层&lt;/p&gt;
-&lt;p&gt;扩展库&lt;/p&gt;
-&lt;h2 id=&#34;4flink环境准备&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4flink环境准备&#34;&gt;#&lt;/a&gt; 4.Flink 环境准备&lt;/h2&gt;
-&lt;p&gt;环境依赖要求&lt;/p&gt;
-&lt;p&gt;IDE 和开发配置&lt;/p&gt;
-&lt;p&gt;Hello Flink 环境验证&lt;/p&gt;
-&lt;p&gt;实时日志实战演示&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://ruyiluo.github.io/2020/10/31/big-data/flink/Flink%E5%AE%89%E8%A3%85%E4%B8%8E%E9%83%A8%E7%BD%B2/</guid>
-            <title></title>
-            <link>https://ruyiluo.github.io/2020/10/31/big-data/flink/Flink%E5%AE%89%E8%A3%85%E4%B8%8E%E9%83%A8%E7%BD%B2/</link>
-            <pubDate>Sat, 31 Oct 2020 10:30:41 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;flink安装与部署&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#flink安装与部署&#34;&gt;#&lt;/a&gt; Flink 安装与部署&lt;/h1&gt;
-&lt;p&gt;源码编译&lt;/p&gt;
-&lt;p&gt;maven&lt;/p&gt;
- ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">https://ruyiluo.github.io/2020/10/29/big-data/flink/Flink%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
             <title>Flink基本概念</title>
