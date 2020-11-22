@@ -1,25 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Rec Arc • Posts by &#34;规划&#34; tag</title>
+        <title>Rec Arc • Posts by &#34;初衷，未来规划&#34; category</title>
         <link>https://ruyiluo.github.io</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Sun, 22 Nov 2020 16:43:00 +0800</pubDate>
-        <lastBuildDate>Sun, 22 Nov 2020 16:43:00 +0800</lastBuildDate>
+        <pubDate>Thu, 29 Oct 2020 16:43:00 +0800</pubDate>
+        <lastBuildDate>Thu, 29 Oct 2020 16:43:00 +0800</lastBuildDate>
         <category>初衷</category>
         <category>规划</category>
-        <item>
-            <guid isPermalink="true">https://ruyiluo.github.io/2020/11/22/rec-sys/video-rec/%E8%A7%86%E9%A2%91%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
-            <title>视频推荐简介</title>
-            <link>https://ruyiluo.github.io/2020/11/22/rec-sys/video-rec/%E8%A7%86%E9%A2%91%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
-            <category>规划</category>
-            <pubDate>Sun, 22 Nov 2020 16:43:00 +0800</pubDate>
-            <description><![CDATA[ &lt;!---more---&gt;
-&lt;h1 id=&#34;初衷&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#初衷&#34;&gt;#&lt;/a&gt; 初衷&lt;/h1&gt;
-&lt;h1 id=&#34;计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#计划&#34;&gt;#&lt;/a&gt; 计划&lt;/h1&gt;
- ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">https://ruyiluo.github.io/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/</guid>
             <title>关于自己</title>
@@ -35,17 +24,6 @@
 &lt;p&gt;除了专业知识以外，还打算多读一些书。其实自己本身是不喜欢读书的，不知道是不是因为从小就没有读书的习惯，刚好最近在得到 App 上发现了吴军老师的硅谷来信第三季，想跟着吴军老师去了解更远的世界，开阔眼界，所以也会记录自己学习的心路历程。&lt;/p&gt;
 &lt;h1 id=&#34;计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#计划&#34;&gt;#&lt;/a&gt; 计划&lt;/h1&gt;
 &lt;p&gt;没有什么日更不日更的计划，有了一段总结就放上来。希望可以见证自己的成长。把自己手头的每件事情都做好，多思考就够了！&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://ruyiluo.github.io/2020/10/29/rec-sys/news-rec/%E6%96%B0%E9%97%BB%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</guid>
-            <title>新闻推荐简介</title>
-            <link>https://ruyiluo.github.io/2020/10/29/rec-sys/news-rec/%E6%96%B0%E9%97%BB%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</link>
-            <category>规划</category>
-            <pubDate>Thu, 29 Oct 2020 16:43:00 +0800</pubDate>
-            <description><![CDATA[ &lt;!---more---&gt;
-&lt;h1 id=&#34;初衷&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#初衷&#34;&gt;#&lt;/a&gt; 初衷&lt;/h1&gt;
-&lt;h1 id=&#34;计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#计划&#34;&gt;#&lt;/a&gt; 计划&lt;/h1&gt;
  ]]></description>
         </item>
     </channel>
