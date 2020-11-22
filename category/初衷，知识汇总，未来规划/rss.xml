@@ -8,27 +8,12 @@
         <pubDate>Thu, 29 Oct 2020 16:43:00 +0800</pubDate>
         <lastBuildDate>Thu, 29 Oct 2020 16:43:00 +0800</lastBuildDate>
         <category>初衷</category>
-        <category>知识</category>
         <category>规划</category>
-        <category>flink</category>
-        <category>名单</category>
-        <category>spark</category>
-        <category>hadoop</category>
-        <category>DL框架</category>
-        <category>排序</category>
-        <category>java</category>
-        <category>召回</category>
-        <category>python</category>
-        <category>scala</category>
-        <category>前端三大件</category>
-        <category>数据流</category>
-        <category>数据存储</category>
         <item>
             <guid isPermalink="true">https://ruyiluo.github.io/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/</guid>
             <title>新人必看</title>
             <link>https://ruyiluo.github.io/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/</link>
             <category>初衷</category>
-            <category>知识</category>
             <category>规划</category>
             <pubDate>Thu, 29 Oct 2020 16:43:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这是一个开源项目，该项目的目的是降低我们学习推荐系统框架的门槛，会将一整套推荐系统所需要的知识技能都整理成笔记以供大家一起学习，当前开源项目才刚刚开始希望自己可以将将相关的内容沉淀成知识体系。&lt;/p&gt;

@@ -5,21 +5,7 @@
     <link href="https://ruyiluo.github.io" />
     <updated>2020-10-29T08:43:00.000Z</updated>
     <category term="初衷" />
-    <category term="知识" />
     <category term="规划" />
-    <category term="flink" />
-    <category term="名单" />
-    <category term="spark" />
-    <category term="hadoop" />
-    <category term="DL框架" />
-    <category term="排序" />
-    <category term="java" />
-    <category term="召回" />
-    <category term="python" />
-    <category term="scala" />
-    <category term="前端三大件" />
-    <category term="数据流" />
-    <category term="数据存储" />
     <entry>
         <id>https://ruyiluo.github.io/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/</id>
         <title>新人必看</title>
@@ -34,7 +20,6 @@
 &lt;p&gt;xxx&lt;/p&gt;
 </content>
         <category term="初衷" />
-        <category term="知识" />
         <category term="规划" />
         <updated>2020-10-29T08:43:00.000Z</updated>
     </entry>
