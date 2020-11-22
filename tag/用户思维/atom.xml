@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ruyiluo.github.io</id>
+    <title>Rec Arc • Posts by &#34;用户思维&#34; tag</title>
+    <link href="https://ruyiluo.github.io" />
+    <updated>2020-11-22T15:42:19.708Z</updated>
+    <category term="初衷" />
+    <category term="规划" />
+    <category term="用户思维" />
+    <category term="学习的底层原理" />
+    <entry>
+        <id>https://ruyiluo.github.io/2020/11/22/deepthink/%E5%86%99%E4%BD%9C(%E6%A6%82%E8%AE%BA)/</id>
+        <title>写作之概论篇</title>
+        <link rel="alternate" href="https://ruyiluo.github.io/2020/11/22/deepthink/%E5%86%99%E4%BD%9C(%E6%A6%82%E8%AE%BA)/"/>
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;L 先生说写作课笔记，知识点包括：信息漏斗模型、需求的底层驱动模型、竞品三问、差异三角、供给三问、7C 模型、目标三问&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!---more---&gt;
+&lt;p&gt;** 思考：** 我们平时阅读文章的过程？&lt;/p&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/5e5350c06127cc0713632f2a.jpg&#34; style=&#34;zoom: 33%;&#34; &gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;写作，就是跟读者的大脑争夺注意力和心智资源的过程&lt;/strong&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;用户思维&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#用户思维&#34;&gt;#&lt;/a&gt; 用户思维&lt;/h2&gt;
+&lt;h3 id=&#34;一切从用户出发&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一切从用户出发&#34;&gt;#&lt;/a&gt; 一切从用户出发&lt;/h3&gt;
+&lt;p&gt;初学者常犯的错误&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;过于关注 &lt;code&gt;我想说什么&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;却忽略了 &lt;code&gt;读者需要什么&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;反例 1:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;推荐一本书给别人，一直在强调 &lt;code&gt;我&lt;/code&gt; 有什么样的感受、多么多么喜欢，却忽略了 &lt;code&gt;对方未必有与你一样的感受&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;范例 2：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对客户讲：我们的产品多么好，获得过什么荣誉，现在有什么优惠，而完全不提 &lt;code&gt;能帮你解决什么问题&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;反例 3：&lt;/p&gt;
+&lt;p&gt;对领导做汇报，强调工作多么辛苦，加班加点，废寝忘食，描述心历路程，而 &lt;code&gt;不提进展如何，遇到什么障碍，下一步的计划是什么&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br/&gt;
+&lt;p&gt;总结：在写作或者向别人表达的时候你不应该只考虑自己的感受怎么怎么样，更应该站在读者或者倾听者的角度去思考，它们是否对你的表达感兴趣。&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;tips:&lt;/strong&gt;  &lt;code&gt;写作时，有意识的控制我的数量，把我换成你，把自我的独白变成跟读者的对话&lt;/code&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h3 id=&#34;为用户提供价值&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#为用户提供价值&#34;&gt;#&lt;/a&gt; 为用户提供价值&lt;/h3&gt;
+&lt;p&gt;下面是同一款休闲鞋的两条文案&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第一条：&lt;/p&gt;
+&lt;p&gt;该款产品采用国际先进的 A-Jax 充气缓冲技术，可以提供良好的压力反馈和回弹系数&lt;/p&gt;
+&lt;p&gt;第二条：&lt;/p&gt;
+&lt;p&gt;每一步都如同踩在白云上一样柔软，素有 &lt;code&gt;最舒服的漫步鞋&lt;/code&gt; 之称&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br/&gt;
+&lt;p&gt;对于大多数人，你会更容易被第二条所吸引，因为第二条更生动，你会更容易想象到那种场景，而第一条可能连在说什么都不知道。但是并不是说第二条就比第一条更好，对于鞋类的爱好者，第一条文案可能就更加能够吸引他们。&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;code&gt;用户洞察：&lt;/code&gt; 对于一个事物，你可能有很多的信息可以给出去，有很多话可以表达，但是具体说什么话或者给出什么样的信息，不应该是由你自己决定的，而是应该由看的人或者听的人决定的，他想要什么信息，进他什么，他想听什么话就说什么，这才是对于他们的价值。&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;什么是价值？&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/5e5350de6127cc0713633a31.jpg&#34; style=&#34;zoom: 33%;&#34; &gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;code&gt;读者(受众)的时间比你的更重要，一旦他对你投入了时间和注意力就必须能让他获得超额的回报，包括在跟人沟通的时候，也要让别人感受到超额的回报，这样才能让人感觉到跟你讲话，跟你沟通是有价值的。&lt;/code&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;落实用户思维&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#落实用户思维&#34;&gt;#&lt;/a&gt; 落实用户思维&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;从四个问题出发：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;读者想要什么？&lt;/li&gt;
+&lt;li&gt;替代品是什么？&lt;/li&gt;
+&lt;li&gt;我能提供什么？&lt;/li&gt;
+&lt;li&gt;能使读者如何？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br/&gt;
+&lt;h3 id=&#34;用户思维画布&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#用户思维画布&#34;&gt;#&lt;/a&gt; 用户思维画布&lt;/h3&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/5e5627dc6127cc0713ce4ecb.jpg&#34; style=&#34;zoom: 33%;&#34; &gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;需求分析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#需求分析&#34;&gt;#&lt;/a&gt; &lt;strong&gt;需求分析：&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;我要写给哪些人看&lt;/li&gt;
+&lt;li&gt;他们的思维方式是什么&lt;/li&gt;
+&lt;li&gt;他们最关心的问题是什么&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;不断问自己：我想告诉读者的关键信息是什么，避免自己迷失在自我意识过剩中&lt;/strong&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;需求的底层驱动框架：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;稳定需求：是从不稳定状态过度到稳定状态时的一种需求，比如你从一个新领域过渡到自己熟悉的领域，此时你就有稳定需求，刚毕业的学生走向职场的人，第一次升职，第一次理财、甚至刚刚上手一个游戏等等，这种需求也称为新手需求。稳定的需求也可以特别的细致，比如刚刚升任主管，如何更好的管理是一个稳定需求；刚刚升任主管如何更好的与下级沟通。&lt;/p&gt;
+&lt;p&gt;社交需求：通过社会连接和优越感来获取竞争优势。例如通过跟其他人竞争，和其他人进行对比，来展示自己的优越感。更多、更快、更深。在你的圈层里面如何比其他人知道的更多，获取的更快，理解的更深。&lt;/p&gt;
+&lt;p&gt;奖励需求：通过长期目标和短期反馈 (娱乐)，获得满足感。打游戏、看电影等&lt;/p&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/5e562a436127cc0713cebd65.jpg&#34; style=&#34;zoom:33%;&#34; &gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;h4 id=&#34;竞品分析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#竞品分析&#34;&gt;#&lt;/a&gt; &lt;strong&gt;竞品分析：&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;用户可能从别的什么渠道获取信息&lt;/li&gt;
+&lt;li&gt;他们的倾向和缺口是什么&lt;/li&gt;
+&lt;li&gt;我能提供点什么差异&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;差异三角&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;** 跨界：** 将不同领域的知识点及思维框架结合起来，来碰撞出新的火花。&lt;/p&gt;
+&lt;p&gt;例如：&lt;/p&gt;
+&lt;p&gt;认知神经科学 = 心理学 + 生物学&lt;/p&gt;
+&lt;p&gt;(L 先生说)= 心理学 + 职场 / 学习&lt;/p&gt;
+&lt;p&gt;行为经济学 = 心理学 + 经济学&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;尽可能让自己称为了一个 T 型人才，在某个领域有所钻研，同时又能够涉猎了解其他更多的领域，不需要非常的精通，你只需要比其他人更了解一点就行&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;跨界的核心：找关联（就是把自己直到的东西都罗列起来，然后组合不同的东西，看是否又新的东西出来）&lt;/p&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/5e562d506127cc0713cf48b4.jpg&#34; style=&#34;zoom:33%;&#34; /&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;p&gt;** 细化：** 就是把一个问题拆解开来，就是做某个领域里面更加垂直的部分&lt;/p&gt;
+&lt;p&gt;比如美食，是一个很大的范畴，可以进行如下的细化&lt;/p&gt;
+&lt;p&gt;点评餐厅&lt;/p&gt;
+&lt;p&gt;营养搭配&lt;/p&gt;
+&lt;p&gt;健身餐、儿童餐等&lt;/p&gt;
+&lt;p&gt;细化的核心：找场景，如下图所示。&lt;/p&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/5e562ff66127cc0713cfcb63.jpg&#34; style=&#34;zoom:33%;&#34; /&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;p&gt;形式：效率工具&lt;/p&gt;
+&lt;p&gt;社群评测；&lt;/p&gt;
+&lt;p&gt;大咖访谈；&lt;/p&gt;
+&lt;p&gt;制定打分标准&lt;/p&gt;
+&lt;p&gt;模拟案例等&lt;/p&gt;
+&lt;br/&gt;
+&lt;h4 id=&#34;供给分析&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#供给分析&#34;&gt;#&lt;/a&gt; 供给分析&lt;/h4&gt;
+&lt;p&gt;我是谁？&lt;/p&gt;
+&lt;p&gt;我擅长什么？&lt;/p&gt;
+&lt;p&gt;我能提供什么产品模式？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;回忆起你得到表扬和赞赏的场景，是因为什么事？&lt;/p&gt;
+&lt;p&gt;朋友、同事、网友们，经常会在什么场合下主动找你？&lt;/p&gt;
+&lt;p&gt;你做什么事情时，会更加的自信，觉得自己能做的比别人好？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;我能提供什么产品模式？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;产品 7C 模型：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Combine 整合&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Courier 速递&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Communication 沟通 &lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Choose 筛选&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Convenience 便捷&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Contact 连结&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Create 创造&lt;/code&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Combine 整合&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;把零散的东西整合起来，赋予一个新的、更高层级的主题&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;呈现更全面的信息&lt;/li&gt;
+&lt;li&gt;找共性&lt;/li&gt;
+&lt;li&gt;拔高层次&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Courier 速递&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;同样的信息，让读者比别人更快的接收到 （适用于一些一定不会又反转的东西，适用于只要你能比别人更快的拿到手，你就能比别人更有竞争力的东西）&lt;/p&gt;
+&lt;p&gt;比如打折优惠促销，新品上架&lt;/p&gt;
+&lt;p&gt;往往整合与速递会同时用，比如把单篇早间的新闻，来自不同平台、不同客户端全部聚集起来，然后自己做一篇推送，早上自己推送给读者。&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Communicate 沟通&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;把复杂的、专业的信息进行普及化、大众化、个性化定制&lt;/p&gt;
+&lt;p&gt;沟通：解释 + 传播&lt;/p&gt;
+&lt;p&gt;把一个信息解释清楚并且帮助它，推动他去传播，最简单的就是各种科普&lt;/p&gt;
+&lt;p&gt;沟通也可以和速递结合起来，比如把一个新出台的一个文件，你能不能把它解释清楚，让受众知道这个文件讲了什么，他跟我有什么关系，我要怎么样去应对它，这是一种非常有意义有价值的沟通&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Choose 筛选&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;帮读者筛选出可靠的、有效的信息。&lt;/p&gt;
+&lt;p&gt;对于大量的优质与劣质信息的混合，你可以帮助读者去选择一些优质的信息，最简单的方式就是各种书单、评测、评论等等。通过挑选，通过测评，通过评论，让读者在这么多产品中，这么多的信息中，我该选择哪一些，这也是你能提供的，非常有意义的价值。&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Convenience 便捷&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;帮助读者更高效、便捷地获取某些资源，降低成本。&lt;/p&gt;
+&lt;p&gt;可以提供得到的渠道（一些书籍、资料的下载渠道）&lt;/p&gt;
+&lt;p&gt;如果有渠道，但是得到它需要花费很多时间，你可以帮我节省时间 (提供书籍的摘要，浓缩笔记等。)&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Contact 连结&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;帮读者创造情感、态度上的连接，让读者得到归属感&lt;/p&gt;
+&lt;p&gt;一部电影出来，大家都说电影拍的真好、特别好特别喜欢，但我不喜欢，我可能会觉得孤独，如果现在有一个人跳出来说我也不喜欢，并且说的非常的深刻，非常的有道理，那么他就可以形成一个场，把那些同样不喜欢的、零散的、不敢发声表达自己、表达观点的人聚集起来，形成一个紧密的小圈子，这就连结，你说出了我想说的话，你让我找到了跟我一样的人&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Create 创造&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;提出一个新的成果和产品&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;7C 模型的概括：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;7C 模型的作用：我能够提供什么产品，或者是如何做自己的定位，但是不能用一句话讲清楚的定位就等于没有定位。因为你做的越多，你的形象就越庞杂，越模糊，那么你的读者，你的受众，你的用户就更加没有办法在第一时间想起，记住你是谁，你是做什么的。&lt;/p&gt;
+&lt;p&gt;因为一个产品要跟很多标签很多场景挂钩起来非常困难，所以你必须有一个核心。&lt;/p&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/5e563e886127cc0713d2b768.jpg&#34; style=&#34;zoom: 33%;&#34; /&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结：&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Lachel用户思维画布总结&lt;/code&gt;&lt;/p&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/5e563f146127cc0713d2cc24.jpg&#34; style=&#34;zoom:33%;&#34; &gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;code&gt;概论篇总结&lt;/code&gt;&lt;/p&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/5e563fb76127cc0713d2dcab.jpg&#34; style=&#34;zoom:33%;&#34; &gt;
+&lt;/div&gt;
+</content>
+        <category term="用户思维" />
+        <updated>2020-11-22T15:42:19.708Z</updated>
+    </entry>
+</feed>

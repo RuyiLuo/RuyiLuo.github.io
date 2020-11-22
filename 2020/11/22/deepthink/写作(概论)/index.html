@@ -1,0 +1,612 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#FFF">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
+  <meta http-equiv="Cache-Control" content="no-transform">
+  <meta http-equiv="Cache-Control" content="no-siteapp">
+
+
+<link rel="alternate" type="application/rss+xml" title="Rec Arc" href="https://ruyiluo.github.io/rss.xml" />
+<link rel="alternate" type="application/atom+xml" title="Rec Arc" href="https://ruyiluo.github.io/atom.xml" />
+<link rel="alternate" type="application/json" title="Rec Arc" href="https://ruyiluo.github.io/feed.json" />
+
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Mulish:300,300italic,400,400italic,700,700italic%7CFredericka%20the%20Great:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20JP:300,300italic,400,400italic,700,700italic%7CNoto%20Serif%20SC:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="/css/app.css?v=0.2.5">
+
+  
+  <meta name="keywords" content="用户思维" />
+
+
+<link rel="canonical" href="https://ruyiluo.github.io/2020/11/22/deepthink/%E5%86%99%E4%BD%9C(%E6%A6%82%E8%AE%BA)/">
+
+
+
+  <title>
+写作之概论篇 - 深度思考 |
+Recommendation System Architecture Learning = Rec Arc</title>
+<meta name="generator" content="Hexo 5.2.0"></head>
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div id="loading">
+    <div class="cat">
+      <div class="body"></div>
+      <div class="head">
+        <div class="face"></div>
+      </div>
+      <div class="foot">
+        <div class="tummy-end"></div>
+        <div class="bottom"></div>
+        <div class="legs left"></div>
+        <div class="legs right"></div>
+      </div>
+      <div class="paw">
+        <div class="hands left"></div>
+        <div class="hands right"></div>
+      </div>
+    </div>
+  </div>
+  <div id="container">
+    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="inner">
+        <div id="brand">
+          <div class="pjax">
+          
+  <h1 itemprop="name headline">写作之概论篇
+  </h1>
+  
+<div class="meta">
+  <span class="item" title="创建时间：2020-11-22 23:42:19">
+    <span class="icon">
+      <i class="ic i-calendar"></i>
+    </span>
+    <span class="text">发表于</span>
+    <time itemprop="dateCreated datePublished" datetime="2020-11-22T23:42:19+08:00">2020-11-22</time>
+  </span>
+  <span class="item" title="本文字数">
+    <span class="icon">
+      <i class="ic i-pen"></i>
+    </span>
+    <span class="text">本文字数</span>
+    <span>2.8k</span>
+    <span class="text">字</span>
+  </span>
+  <span class="item" title="阅读时长">
+    <span class="icon">
+      <i class="ic i-clock"></i>
+    </span>
+    <span class="text">阅读时长</span>
+    <span>3 分钟</span>
+  </span>
+</div>
+
+
+          </div>
+        </div>
+        <nav id="nav">
+  <div class="inner">
+    <div class="toggle">
+      <div class="lines" aria-label="切换导航栏">
+        <span class="line"></span>
+        <span class="line"></span>
+        <span class="line"></span>
+      </div>
+    </div>
+    <ul class="menu">
+      <li class="item title"><a href="/" rel="start">Recommendation System Architecture Learning</a></li>
+    </ul>
+    <ul class="right">
+      <li class="item theme">
+        <i class="ic i-sun"></i>
+      </li>
+      <li class="item search">
+        <i class="ic i-search"></i>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+      </div>
+      <div id="imgs" class="pjax">
+        <ul>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1gicitf0kl1j20zk0m87fe.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giciszlczyj20zk0m816d.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1gicitspjpbj20zk0m81ky.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1gicitht3xtj20zk0m8k5v.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giciusoyjnj219g0u0x56.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giciusoyjnj219g0u0x56.jpg"></li>
+        </ul>
+      </div>
+    </header>
+    <div id="waves">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave" x="48" y="3" />
+          <use xlink:href="#gentle-wave" x="48" y="5" />
+          <use xlink:href="#gentle-wave" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+    <main>
+      <div class="inner">
+        <div id="main" class="pjax">
+          
+  <div class="article wrap">
+    
+<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+<i class="ic i-home"></i>
+<span><a href="/">首页</a></span><i class="ic i-angle-right"></i>
+<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/deepthink/" itemprop="item" rel="index" title="分类于 深度思考"><span itemprop="name">深度思考</span></a>
+<meta itemprop="position" content="1" /></span>
+</div>
+
+    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-CN">
+  <link itemprop="mainEntityOfPage" href="https://ruyiluo.github.io/2020/11/22/deepthink/%E5%86%99%E4%BD%9C(%E6%A6%82%E8%AE%BA)/">
+
+  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <meta itemprop="image" content="/images/avatar.jpg">
+    <meta itemprop="name" content="若如意">
+    <meta itemprop="description" content=", ">
+  </span>
+
+  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="Rec Arc">
+  </span>
+
+  <div class="body md" itemprop="articleBody">
+    
+
+    <blockquote>
+<p>L 先生说写作课笔记，知识点包括：信息漏斗模型、需求的底层驱动模型、竞品三问、差异三角、供给三问、7C 模型、目标三问</p>
+</blockquote>
+<!---more--->
+<p>** 思考：** 我们平时阅读文章的过程？</p>
+<div align='center'><img data-src="https://pic.imgdb.cn/item/5e5350c06127cc0713632f2a.jpg" style="zoom: 33%;" >
+</div>
+<br/>
+<p><strong>写作，就是跟读者的大脑争夺注意力和心智资源的过程</strong></p>
+<br/>
+<h2 id="用户思维"><a class="markdownIt-Anchor" href="#用户思维">#</a> 用户思维</h2>
+<h3 id="一切从用户出发"><a class="markdownIt-Anchor" href="#一切从用户出发">#</a> 一切从用户出发</h3>
+<p>初学者常犯的错误</p>
+<ul>
+<li>过于关注 <code>我想说什么</code></li>
+<li>却忽略了 <code>读者需要什么</code></li>
+</ul>
+<blockquote>
+<p><strong>反例 1:</strong></p>
+<p>推荐一本书给别人，一直在强调 <code>我</code> 有什么样的感受、多么多么喜欢，却忽略了 <code>对方未必有与你一样的感受</code></p>
+<p><strong>范例 2：</strong></p>
+<p>对客户讲：我们的产品多么好，获得过什么荣誉，现在有什么优惠，而完全不提 <code>能帮你解决什么问题</code></p>
+<p>反例 3：</p>
+<p>对领导做汇报，强调工作多么辛苦，加班加点，废寝忘食，描述心历路程，而 <code>不提进展如何，遇到什么障碍，下一步的计划是什么</code></p>
+</blockquote>
+<br/>
+<p>总结：在写作或者向别人表达的时候你不应该只考虑自己的感受怎么怎么样，更应该站在读者或者倾听者的角度去思考，它们是否对你的表达感兴趣。</p>
+<br/>
+<p><strong>tips:</strong>  <code>写作时，有意识的控制我的数量，把我换成你，把自我的独白变成跟读者的对话</code></p>
+<br/>
+<h3 id="为用户提供价值"><a class="markdownIt-Anchor" href="#为用户提供价值">#</a> 为用户提供价值</h3>
+<p>下面是同一款休闲鞋的两条文案</p>
+<blockquote>
+<p>第一条：</p>
+<p>该款产品采用国际先进的 A-Jax 充气缓冲技术，可以提供良好的压力反馈和回弹系数</p>
+<p>第二条：</p>
+<p>每一步都如同踩在白云上一样柔软，素有 <code>最舒服的漫步鞋</code> 之称</p>
+</blockquote>
+<br/>
+<p>对于大多数人，你会更容易被第二条所吸引，因为第二条更生动，你会更容易想象到那种场景，而第一条可能连在说什么都不知道。但是并不是说第二条就比第一条更好，对于鞋类的爱好者，第一条文案可能就更加能够吸引他们。</p>
+<br/>
+<p><code>用户洞察：</code> 对于一个事物，你可能有很多的信息可以给出去，有很多话可以表达，但是具体说什么话或者给出什么样的信息，不应该是由你自己决定的，而是应该由看的人或者听的人决定的，他想要什么信息，进他什么，他想听什么话就说什么，这才是对于他们的价值。</p>
+<br/>
+<p><strong>什么是价值？</strong></p>
+<div align='center'><img data-src="https://pic.imgdb.cn/item/5e5350de6127cc0713633a31.jpg" style="zoom: 33%;" >
+</div>
+<br/>
+<p><code>读者(受众)的时间比你的更重要，一旦他对你投入了时间和注意力就必须能让他获得超额的回报，包括在跟人沟通的时候，也要让别人感受到超额的回报，这样才能让人感觉到跟你讲话，跟你沟通是有价值的。</code></p>
+<br/>
+<h2 id="落实用户思维"><a class="markdownIt-Anchor" href="#落实用户思维">#</a> 落实用户思维</h2>
+<p><strong>从四个问题出发：</strong></p>
+<ul>
+<li>读者想要什么？</li>
+<li>替代品是什么？</li>
+<li>我能提供什么？</li>
+<li>能使读者如何？</li>
+</ul>
+<br/>
+<h3 id="用户思维画布"><a class="markdownIt-Anchor" href="#用户思维画布">#</a> 用户思维画布</h3>
+<div align='center'><img data-src="https://pic.imgdb.cn/item/5e5627dc6127cc0713ce4ecb.jpg" style="zoom: 33%;" >
+</div>
+<h4 id="需求分析"><a class="markdownIt-Anchor" href="#需求分析">#</a> <strong>需求分析：</strong></h4>
+<ol>
+<li>我要写给哪些人看</li>
+<li>他们的思维方式是什么</li>
+<li>他们最关心的问题是什么</li>
+</ol>
+<p><strong>不断问自己：我想告诉读者的关键信息是什么，避免自己迷失在自我意识过剩中</strong></p>
+<br/>
+<p><strong>需求的底层驱动框架：</strong></p>
+<p>稳定需求：是从不稳定状态过度到稳定状态时的一种需求，比如你从一个新领域过渡到自己熟悉的领域，此时你就有稳定需求，刚毕业的学生走向职场的人，第一次升职，第一次理财、甚至刚刚上手一个游戏等等，这种需求也称为新手需求。稳定的需求也可以特别的细致，比如刚刚升任主管，如何更好的管理是一个稳定需求；刚刚升任主管如何更好的与下级沟通。</p>
+<p>社交需求：通过社会连接和优越感来获取竞争优势。例如通过跟其他人竞争，和其他人进行对比，来展示自己的优越感。更多、更快、更深。在你的圈层里面如何比其他人知道的更多，获取的更快，理解的更深。</p>
+<p>奖励需求：通过长期目标和短期反馈 (娱乐)，获得满足感。打游戏、看电影等</p>
+<div align='center'><img data-src="https://pic.imgdb.cn/item/5e562a436127cc0713cebd65.jpg" style="zoom:33%;" >
+</div>
+<br/>
+<h4 id="竞品分析"><a class="markdownIt-Anchor" href="#竞品分析">#</a> <strong>竞品分析：</strong></h4>
+<ol>
+<li>用户可能从别的什么渠道获取信息</li>
+<li>他们的倾向和缺口是什么</li>
+<li>我能提供点什么差异</li>
+</ol>
+<p><strong>差异三角</strong></p>
+<p>** 跨界：** 将不同领域的知识点及思维框架结合起来，来碰撞出新的火花。</p>
+<p>例如：</p>
+<p>认知神经科学 = 心理学 + 生物学</p>
+<p>(L 先生说)= 心理学 + 职场 / 学习</p>
+<p>行为经济学 = 心理学 + 经济学</p>
+<blockquote>
+<p>尽可能让自己称为了一个 T 型人才，在某个领域有所钻研，同时又能够涉猎了解其他更多的领域，不需要非常的精通，你只需要比其他人更了解一点就行</p>
+</blockquote>
+<p>跨界的核心：找关联（就是把自己直到的东西都罗列起来，然后组合不同的东西，看是否又新的东西出来）</p>
+<div align='center'><img data-src="https://pic.imgdb.cn/item/5e562d506127cc0713cf48b4.jpg" style="zoom:33%;" />
+</div>
+<br/>
+<p>** 细化：** 就是把一个问题拆解开来，就是做某个领域里面更加垂直的部分</p>
+<p>比如美食，是一个很大的范畴，可以进行如下的细化</p>
+<p>点评餐厅</p>
+<p>营养搭配</p>
+<p>健身餐、儿童餐等</p>
+<p>细化的核心：找场景，如下图所示。</p>
+<div align='center'><img data-src="https://pic.imgdb.cn/item/5e562ff66127cc0713cfcb63.jpg" style="zoom:33%;" />
+</div>
+<br/>
+<p>形式：效率工具</p>
+<p>社群评测；</p>
+<p>大咖访谈；</p>
+<p>制定打分标准</p>
+<p>模拟案例等</p>
+<br/>
+<h4 id="供给分析"><a class="markdownIt-Anchor" href="#供给分析">#</a> 供给分析</h4>
+<p>我是谁？</p>
+<p>我擅长什么？</p>
+<p>我能提供什么产品模式？</p>
+<blockquote>
+<p>回忆起你得到表扬和赞赏的场景，是因为什么事？</p>
+<p>朋友、同事、网友们，经常会在什么场合下主动找你？</p>
+<p>你做什么事情时，会更加的自信，觉得自己能做的比别人好？</p>
+</blockquote>
+<p><strong>我能提供什么产品模式？</strong></p>
+<p><strong>产品 7C 模型：</strong></p>
+<p><code>Combine 整合</code></p>
+<p><code>Courier 速递</code></p>
+<p><code>Communication 沟通 </code></p>
+<p><code>Choose 筛选</code></p>
+<p><code>Convenience 便捷</code></p>
+<p><code>Contact 连结</code></p>
+<p><code>Create 创造</code></p>
+<br/>
+<p><strong>Combine 整合</strong></p>
+<p>把零散的东西整合起来，赋予一个新的、更高层级的主题</p>
+<ol>
+<li>呈现更全面的信息</li>
+<li>找共性</li>
+<li>拔高层次</li>
+</ol>
+<br/>
+<p><strong>Courier 速递</strong></p>
+<p>同样的信息，让读者比别人更快的接收到 （适用于一些一定不会又反转的东西，适用于只要你能比别人更快的拿到手，你就能比别人更有竞争力的东西）</p>
+<p>比如打折优惠促销，新品上架</p>
+<p>往往整合与速递会同时用，比如把单篇早间的新闻，来自不同平台、不同客户端全部聚集起来，然后自己做一篇推送，早上自己推送给读者。</p>
+<br/>
+<p><strong>Communicate 沟通</strong></p>
+<p>把复杂的、专业的信息进行普及化、大众化、个性化定制</p>
+<p>沟通：解释 + 传播</p>
+<p>把一个信息解释清楚并且帮助它，推动他去传播，最简单的就是各种科普</p>
+<p>沟通也可以和速递结合起来，比如把一个新出台的一个文件，你能不能把它解释清楚，让受众知道这个文件讲了什么，他跟我有什么关系，我要怎么样去应对它，这是一种非常有意义有价值的沟通</p>
+<br/>
+<p><strong>Choose 筛选</strong></p>
+<p>帮读者筛选出可靠的、有效的信息。</p>
+<p>对于大量的优质与劣质信息的混合，你可以帮助读者去选择一些优质的信息，最简单的方式就是各种书单、评测、评论等等。通过挑选，通过测评，通过评论，让读者在这么多产品中，这么多的信息中，我该选择哪一些，这也是你能提供的，非常有意义的价值。</p>
+<br/>
+<p><strong>Convenience 便捷</strong></p>
+<p>帮助读者更高效、便捷地获取某些资源，降低成本。</p>
+<p>可以提供得到的渠道（一些书籍、资料的下载渠道）</p>
+<p>如果有渠道，但是得到它需要花费很多时间，你可以帮我节省时间 (提供书籍的摘要，浓缩笔记等。)</p>
+<br/>
+<p><strong>Contact 连结</strong></p>
+<p>帮读者创造情感、态度上的连接，让读者得到归属感</p>
+<p>一部电影出来，大家都说电影拍的真好、特别好特别喜欢，但我不喜欢，我可能会觉得孤独，如果现在有一个人跳出来说我也不喜欢，并且说的非常的深刻，非常的有道理，那么他就可以形成一个场，把那些同样不喜欢的、零散的、不敢发声表达自己、表达观点的人聚集起来，形成一个紧密的小圈子，这就连结，你说出了我想说的话，你让我找到了跟我一样的人</p>
+<br/>
+<p><strong>Create 创造</strong></p>
+<p>提出一个新的成果和产品</p>
+<br/>
+<p><strong>7C 模型的概括：</strong></p>
+<p>7C 模型的作用：我能够提供什么产品，或者是如何做自己的定位，但是不能用一句话讲清楚的定位就等于没有定位。因为你做的越多，你的形象就越庞杂，越模糊，那么你的读者，你的受众，你的用户就更加没有办法在第一时间想起，记住你是谁，你是做什么的。</p>
+<p>因为一个产品要跟很多标签很多场景挂钩起来非常困难，所以你必须有一个核心。</p>
+<div align='center'><img data-src="https://pic.imgdb.cn/item/5e563e886127cc0713d2b768.jpg" style="zoom: 33%;" />
+</div>
+<br/>
+<h2 id="总结"><a class="markdownIt-Anchor" href="#总结">#</a> 总结：</h2>
+<p><code>Lachel用户思维画布总结</code></p>
+<div align='center'><img data-src="https://pic.imgdb.cn/item/5e563f146127cc0713d2cc24.jpg" style="zoom:33%;" >
+</div>
+<br/>
+<p><code>概论篇总结</code></p>
+<div align='center'><img data-src="https://pic.imgdb.cn/item/5e563fb76127cc0713d2dcab.jpg" style="zoom:33%;" >
+</div>
+
+      <div class="tags">
+          <a href="/tags/%E7%94%A8%E6%88%B7%E6%80%9D%E7%BB%B4/" rel="tag"><i class="ic i-tag"></i> 用户思维</a>
+      </div>
+  </div>
+
+   <footer>
+
+    <div class="meta">
+  <span class="item">
+    <span class="icon">
+      <i class="ic i-calendar-check"></i>
+    </span>
+    <span class="text">更新于</span>
+    <time title="修改时间：2020-11-22 23:44:13" itemprop="dateModified" datetime="2020-11-22T23:44:13+08:00">2020-11-22</time>
+  </span>
+  <span id="2020/11/22/deepthink/写作(概论)/" class="item leancloud_visitors" data-flag-title="写作之概论篇" title="阅读次数">
+      <span class="icon">
+        <i class="ic i-eye"></i>
+      </span>
+      <span class="text">阅读次数</span>
+      <span class="leancloud-visitors-count"></span>
+      <span class="text">次</span>
+  </span>
+</div>
+
+      
+<div class="reward">
+  <button><i class="ic i-heartbeat"></i> 赞赏</button>
+  <p>请我喝[茶]</p>
+  <div id="qr">
+      
+      <div>
+        <img data-src="/images/wechatpay.jpg" alt="若如意 微信支付">
+        <p>微信支付</p>
+      </div>
+      
+      <div>
+        <img data-src="/images/alipay.jpg" alt="若如意 支付宝">
+        <p>支付宝</p>
+      </div>
+  </div>
+</div>
+
+      
+
+<div id="copyright">
+<ul>
+  <li class="author">
+    <strong>本文作者： </strong>若如意 <i class="ic i-at"><em>@</em></i>Rec Arc
+  </li>
+  <li class="link">
+    <strong>本文链接：</strong>
+    <a href="https://ruyiluo.github.io/2020/11/22/deepthink/%E5%86%99%E4%BD%9C(%E6%A6%82%E8%AE%BA)/" title="写作之概论篇">https://ruyiluo.github.io/2020/11/22/deepthink/写作(概论)/</a>
+  </li>
+  <li class="license">
+    <strong>版权声明： </strong>本站所有文章除特别声明外，均采用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
+  </footer>
+
+</article>
+
+  </div>
+  
+
+<div class="post-nav">
+    <div class="item left">
+      
+
+  <a href="/2020/11/22/deepthink/%E9%AB%98%E6%95%88%E9%98%85%E8%AF%BB%E4%B8%8E%E5%AD%A6%E4%B9%A0%E6%B3%95/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva1.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gicitspjpbj20zk0m81ky.jpg" title="高效阅读与学习法">
+  <span class="type">上一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 深度思考</span>
+  <h3>高效阅读与学习法</h3>
+  </a>
+
+    </div>
+    <div class="item right">
+    </div>
+</div>
+
+  
+  <div class="wrap" id="comments"></div>
+
+
+        </div>
+        <div id="sidebar">
+          
+
+<div class="inner">
+
+  <div class="panels">
+    <div class="inner">
+      <div class="contents panel pjax" data-title="文章目录">
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%94%A8%E6%88%B7%E6%80%9D%E7%BB%B4"><span class="toc-number">1.</span> <span class="toc-text"> 用户思维</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%80%E5%88%87%E4%BB%8E%E7%94%A8%E6%88%B7%E5%87%BA%E5%8F%91"><span class="toc-number">1.1.</span> <span class="toc-text"> 一切从用户出发</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E4%B8%BA%E7%94%A8%E6%88%B7%E6%8F%90%E4%BE%9B%E4%BB%B7%E5%80%BC"><span class="toc-number">1.2.</span> <span class="toc-text"> 为用户提供价值</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%90%BD%E5%AE%9E%E7%94%A8%E6%88%B7%E6%80%9D%E7%BB%B4"><span class="toc-number">2.</span> <span class="toc-text"> 落实用户思维</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%94%A8%E6%88%B7%E6%80%9D%E7%BB%B4%E7%94%BB%E5%B8%83"><span class="toc-number">2.1.</span> <span class="toc-text"> 用户思维画布</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90"><span class="toc-number">2.1.1.</span> <span class="toc-text"> 需求分析：</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90"><span class="toc-number">2.1.2.</span> <span class="toc-text"> 竞品分析：</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E4%BE%9B%E7%BB%99%E5%88%86%E6%9E%90"><span class="toc-number">2.1.3.</span> <span class="toc-text"> 供给分析</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%80%BB%E7%BB%93"><span class="toc-number">3.</span> <span class="toc-text"> 总结：</span></a></li></ol>
+      </div>
+      <div class="related panel pjax" data-title="系列文章">
+        <ul>
+          <li><a href="/2020/11/22/deepthink/%E9%AB%98%E6%95%88%E9%98%85%E8%AF%BB%E4%B8%8E%E5%AD%A6%E4%B9%A0%E6%B3%95/" rel="bookmark" title="高效阅读与学习法">高效阅读与学习法</a></li><li class="active"><a href="/2020/11/22/deepthink/%E5%86%99%E4%BD%9C(%E6%A6%82%E8%AE%BA)/" rel="bookmark" title="写作之概论篇">写作之概论篇</a></li>
+        </ul>
+      </div>
+      <div class="overview panel" data-title="站点概览">
+        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <img class="image" itemprop="image" alt="若如意"
+      data-src="/images/avatar.jpg">
+  <p class="name" itemprop="name">若如意</p>
+  <div class="description" itemprop="description"></div>
+</div>
+
+<nav class="state">
+    <div class="item posts">
+      <a href="/archives/">
+        <span class="count">6</span>
+        <span class="name">文章</span>
+      </a>
+    </div>
+    <div class="item categories">
+      <a href="/categories/">
+        <span class="count">7</span>
+        <span class="name">分类</span>
+      </a>
+    </div>
+    <div class="item tags">
+      <a href="/tags/">
+        <span class="count">4</span>
+        <span class="name">标签</span>
+      </a>
+    </div>
+</nav>
+
+<div class="social">
+      <span class="exturl item github" data-url="aHR0cHM6Ly9naXRodWIuY29tL1J1eWlMdW8=" title="https:&#x2F;&#x2F;github.com&#x2F;RuyiLuo"><i class="ic i-github"></i></span>
+      <span class="exturl item zhihu" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3Blb3BsZS9sdW8tcnUteWktNTE=" title="https:&#x2F;&#x2F;www.zhihu.com&#x2F;people&#x2F;luo-ru-yi-51"><i class="ic i-zhihu"></i></span>
+</div>
+
+<ul class="menu">
+  
+    
+  <li class="item">
+    <a href="/" rel="section"><i class="ic i-home"></i>首页</a>
+  </li>
+
+    
+  <li class="item">
+    <a href="/about/" rel="section"><i class="ic i-user"></i>关于</a>
+  </li>
+
+        
+  <li class="item dropdown">
+      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
+    <ul class="submenu">
+
+        
+  <li class="item">
+    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>归档</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/categories/" rel="section"><i class="ic i-th"></i>分类</a>
+  </li>
+
+        
+  <li class="item">
+    <a href="/tags/" rel="section"><i class="ic i-tags"></i>标签</a>
+  </li>
+
+  </ul>
+
+</ul>
+
+      </div>
+    </div>
+  </div>
+
+  <ul id="quick">
+    <li class="prev pjax">
+    </li>
+    <li class="up"><i class="ic i-arrow-up"></i></li>
+    <li class="down"><i class="ic i-arrow-down"></i></li>
+    <li class="next pjax">
+    </li>
+    <li class="percent"></li>
+  </ul>
+</div>
+
+
+        </div>
+        <div class="dimmer"></div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="inner">
+        <div class="widgets">
+          
+
+        </div>
+        <div class="status">
+  <div class="copyright">
+    
+    &copy; 
+    <span itemprop="copyrightYear">2020</span>
+    <span class="with-love">
+      <i class="ic i-sakura rotate"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">若如意 @ Recommendation System Architecture Learning</span>
+  </div>
+  <div class="count">
+    <span class="post-meta-item-icon">
+      <i class="ic i-chart-area"></i>
+    </span>
+    <span title="站点总字数">10k 字</span>
+
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="ic i-coffee"></i>
+    </span>
+    <span title="站点阅读时长">9 分钟</span>
+  </div>
+  <div class="powered-by">
+    基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
+  </div>
+</div>
+
+      </div>
+    </footer>
+  </div>
+<script data-config type="text/javascript">
+  var LOCAL = {
+    path: '2020/11/22/deepthink/写作(概论)/',
+    favicon: {
+      show: "RecArc",
+      hide: "RecArc"
+    },
+    search : {
+      placeholder: "文章搜索",
+      empty: "关于 「 ${query} 」，什么也没搜到",
+      stats: "${time} ms 内找到 ${hits} 条结果"
+    },
+    valine: true,fancybox: true,copyright: '复制成功，转载请遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 协议。',
+    ignores : [
+      function(uri) {
+        return uri.includes('#');
+      },
+      function(uri) {
+        return new RegExp(LOCAL.path+"$").test(uri);
+      }
+    ]
+  };
+</script>
+
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+
+<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
+
+<script src="/js/app.js?v=0.2.5"></script>
+
+
+
+
+</body>
+</html>
