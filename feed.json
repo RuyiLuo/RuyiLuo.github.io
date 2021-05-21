@@ -1,9 +1,20 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Rec Arc",
+    "title": "Go for it! Just do it!",
     "description": "",
     "home_page_url": "https://ruyiluo.github.io",
     "items": [
+        {
+            "id": "https://ruyiluo.github.io/2021/05/19/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/",
+            "url": "https://ruyiluo.github.io/2021/05/19/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/",
+            "title": "关于自己",
+            "date_published": "2021-05-19T08:43:00.000Z",
+            "content_html": "<!---more--->\n<h1 id=\"初衷\"><a class=\"markdownIt-Anchor\" href=\"#初衷\">#</a> 初衷</h1>\n<p>最近花了将近一个月的时间找实习，目前也比较顺利拿到了心仪的 offer，其中也感受到了找工作的艰辛，面试时面试官问的问题的深度和广度完全取决于面试官的兴趣，当然简历的内容以及自己对简历中内容的介绍也是引导面试官问问题的一个出发点。为了能够让自己的知识可以更加的完备，一方面需要将自己之前学的知识进行整理重新消化，另一方面对于新的知识也需要整理的有条理一些，以便于后续找工作的时候复习 (自己之前做的笔记，大部分自己是能看懂，但是久了之后发现有些内容自己记录的不是非常的完整)。</p>\n<h1 id=\"计划\"><a class=\"markdownIt-Anchor\" href=\"#计划\">#</a> 计划</h1>\n<ol>\n<li>整理之前学习的笔记</li>\n<li>将新知识整理的更加有条理</li>\n<li>记录自己除了学习技术以外的思考和成长</li>\n</ol>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL3poLWNuL2RvY3MvY29tbWFuZHMuaHRtbA==\">hexo 基本用法</span></p>\n",
+            "tags": [
+                "初衷",
+                "规划"
+            ]
+        },
         {
             "id": "https://ruyiluo.github.io/2020/11/22/deepthink/%E5%86%99%E4%BD%9C(%E6%A6%82%E8%AE%BA)/",
             "url": "https://ruyiluo.github.io/2020/11/22/deepthink/%E5%86%99%E4%BD%9C(%E6%A6%82%E8%AE%BA)/",
@@ -33,31 +44,10 @@
             "tags": []
         },
         {
-            "id": "https://ruyiluo.github.io/2020/11/22/rec-sys/video-rec/%E8%A7%86%E9%A2%91%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
-            "url": "https://ruyiluo.github.io/2020/11/22/rec-sys/video-rec/%E8%A7%86%E9%A2%91%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
-            "title": "视频推荐简介",
+            "id": "https://ruyiluo.github.io/2020/11/22/rec-sys/rec-notes/Push%E6%8E%A8%E8%8D%90%E7%9A%84%E7%90%86%E8%A7%A3/",
+            "url": "https://ruyiluo.github.io/2020/11/22/rec-sys/rec-notes/Push%E6%8E%A8%E8%8D%90%E7%9A%84%E7%90%86%E8%A7%A3/",
+            "title": "Push推荐理解",
             "date_published": "2020-11-22T08:43:00.000Z",
-            "content_html": "<!---more--->\n<h1 id=\"初衷\"><a class=\"markdownIt-Anchor\" href=\"#初衷\">#</a> 初衷</h1>\n<h1 id=\"计划\"><a class=\"markdownIt-Anchor\" href=\"#计划\">#</a> 计划</h1>\n",
-            "tags": [
-                "规划"
-            ]
-        },
-        {
-            "id": "https://ruyiluo.github.io/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/",
-            "url": "https://ruyiluo.github.io/2020/10/29/%E6%96%B0%E4%BA%BA%E5%BF%85%E7%9C%8B/",
-            "title": "关于自己",
-            "date_published": "2020-10-29T08:43:00.000Z",
-            "content_html": "<p>2020 年是非常特殊的一年，因为新冠肺炎在家待了大半年，在这半年里遇到了 Datawhale，让自己遇到很多优秀的人，可能是因为跟优秀的人待久了，自己也变得更加的自信了。转眼间已经研二了，马上也快要面临找工作了，今年的算法岗可谓是灰飞烟灭，其实具体也不知道找工作的时候能够找到啥样子的工作，只想把这段时间学习的内容记录下来，留给以后的自己看，希望回首往事的时候还能想起自己的小破站。</p>\n<!---more--->\n<h1 id=\"初衷\"><a class=\"markdownIt-Anchor\" href=\"#初衷\">#</a> 初衷</h1>\n<p>学习是孤独的，把小破站当成自己的朋友，没事了总结一下某个阶段的学习内容，心态变化。</p>\n<p>最开始本来想把这个小破站直接搭建一个完整的开源项目，但是想想好像自己离找工作的时间已经不久了，已经没有太多的时间去为了整这个开源项目而花费太多的时间，虽然目前的计划有所改变，但是大方向上还是没有变，这里主要会以王喆在极客时间开的深度学习推荐系统实践课程来总结整个课程中学习的内容，只不过是相比之前的计划更加的具体了。其次这段时间花了近一个月的时间在 Datawhale 准备了一下新闻推荐赛的基本流程，学到了非常多的东西，既然花了这么多时间去做这件事情，那么为何不在继续积累一些相关的内容呢。所以本站关于推荐系统相关的东西可能主要是关于新闻推荐和视频推荐。</p>\n<p>除了专业知识以外，还打算多读一些书。其实自己本身是不喜欢读书的，不知道是不是因为从小就没有读书的习惯，刚好最近在得到 App 上发现了吴军老师的硅谷来信第三季，想跟着吴军老师去了解更远的世界，开阔眼界，所以也会记录自己学习的心路历程。</p>\n<h1 id=\"计划\"><a class=\"markdownIt-Anchor\" href=\"#计划\">#</a> 计划</h1>\n<p>没有什么日更不日更的计划，有了一段总结就放上来。希望可以见证自己的成长。把自己手头的每件事情都做好，多思考就够了！</p>\n",
-            "tags": [
-                "初衷",
-                "规划"
-            ]
-        },
-        {
-            "id": "https://ruyiluo.github.io/2020/10/29/rec-sys/news-rec/%E6%96%B0%E9%97%BB%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
-            "url": "https://ruyiluo.github.io/2020/10/29/rec-sys/news-rec/%E6%96%B0%E9%97%BB%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
-            "title": "新闻推荐简介",
-            "date_published": "2020-10-29T08:43:00.000Z",
             "content_html": "<!---more--->\n<h1 id=\"初衷\"><a class=\"markdownIt-Anchor\" href=\"#初衷\">#</a> 初衷</h1>\n<h1 id=\"计划\"><a class=\"markdownIt-Anchor\" href=\"#计划\">#</a> 计划</h1>\n",
             "tags": [
                 "规划"

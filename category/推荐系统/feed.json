@@ -1,24 +1,14 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Rec Arc • All posts by \"推荐系统\" category",
+    "title": "Go for it! Just do it! • All posts by \"推荐系统\" category",
     "description": "",
     "home_page_url": "https://ruyiluo.github.io",
     "items": [
         {
-            "id": "https://ruyiluo.github.io/2020/11/22/rec-sys/video-rec/%E8%A7%86%E9%A2%91%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
-            "url": "https://ruyiluo.github.io/2020/11/22/rec-sys/video-rec/%E8%A7%86%E9%A2%91%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
-            "title": "视频推荐简介",
+            "id": "https://ruyiluo.github.io/2020/11/22/rec-sys/rec-notes/Push%E6%8E%A8%E8%8D%90%E7%9A%84%E7%90%86%E8%A7%A3/",
+            "url": "https://ruyiluo.github.io/2020/11/22/rec-sys/rec-notes/Push%E6%8E%A8%E8%8D%90%E7%9A%84%E7%90%86%E8%A7%A3/",
+            "title": "Push推荐理解",
             "date_published": "2020-11-22T08:43:00.000Z",
-            "content_html": "<!---more--->\n<h1 id=\"初衷\"><a class=\"markdownIt-Anchor\" href=\"#初衷\">#</a> 初衷</h1>\n<h1 id=\"计划\"><a class=\"markdownIt-Anchor\" href=\"#计划\">#</a> 计划</h1>\n",
-            "tags": [
-                "规划"
-            ]
-        },
-        {
-            "id": "https://ruyiluo.github.io/2020/10/29/rec-sys/news-rec/%E6%96%B0%E9%97%BB%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
-            "url": "https://ruyiluo.github.io/2020/10/29/rec-sys/news-rec/%E6%96%B0%E9%97%BB%E6%8E%A8%E8%8D%90%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/",
-            "title": "新闻推荐简介",
-            "date_published": "2020-10-29T08:43:00.000Z",
             "content_html": "<!---more--->\n<h1 id=\"初衷\"><a class=\"markdownIt-Anchor\" href=\"#初衷\">#</a> 初衷</h1>\n<h1 id=\"计划\"><a class=\"markdownIt-Anchor\" href=\"#计划\">#</a> 计划</h1>\n",
             "tags": [
                 "规划"
