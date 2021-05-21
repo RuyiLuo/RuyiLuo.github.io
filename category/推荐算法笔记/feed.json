@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Go for it! Just do it! • All posts by \"push推荐\" category",
+    "title": "Go for it! Just do it! • All posts by \"推荐算法笔记\" category",
     "description": "",
     "home_page_url": "https://ruyiluo.github.io",
     "items": [
@@ -11,7 +11,7 @@
             "date_published": "2020-11-22T08:43:00.000Z",
             "content_html": "<!---more--->\n<h1 id=\"初衷\"><a class=\"markdownIt-Anchor\" href=\"#初衷\">#</a> 初衷</h1>\n<h1 id=\"计划\"><a class=\"markdownIt-Anchor\" href=\"#计划\">#</a> 计划</h1>\n",
             "tags": [
-                "规划"
+                "Push推荐"
             ]
         }
     ]

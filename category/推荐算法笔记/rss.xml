@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Go for it! Just do it! • Posts by &#34;推荐算法笔记&#34; category</title>
+        <link>https://ruyiluo.github.io</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 22 Nov 2020 16:43:00 +0800</pubDate>
+        <lastBuildDate>Sun, 22 Nov 2020 16:43:00 +0800</lastBuildDate>
+        <category>初衷</category>
+        <category>规划</category>
+        <category>用户思维</category>
+        <category>Push推荐</category>
+        <category>学习的底层原理</category>
+        <item>
+            <guid isPermalink="true">https://ruyiluo.github.io/2020/11/22/rec-sys/rec-notes/Push%E6%8E%A8%E8%8D%90%E7%9A%84%E7%90%86%E8%A7%A3/</guid>
+            <title>Push推荐理解</title>
+            <link>https://ruyiluo.github.io/2020/11/22/rec-sys/rec-notes/Push%E6%8E%A8%E8%8D%90%E7%9A%84%E7%90%86%E8%A7%A3/</link>
+            <category>Push推荐</category>
+            <pubDate>Sun, 22 Nov 2020 16:43:00 +0800</pubDate>
+            <description><![CDATA[ &lt;!---more---&gt;
+&lt;h1 id=&#34;初衷&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#初衷&#34;&gt;#&lt;/a&gt; 初衷&lt;/h1&gt;
+&lt;h1 id=&#34;计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#计划&#34;&gt;#&lt;/a&gt; 计划&lt;/h1&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
