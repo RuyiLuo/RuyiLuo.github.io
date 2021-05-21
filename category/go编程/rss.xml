@@ -1,19 +1,25 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ruyiluo.github.io</id>
-    <title>Go for it! Just do it! • Posts by &#34;go&#34; category</title>
-    <link href="https://ruyiluo.github.io" />
-    <updated>2021-05-19T08:43:00.000Z</updated>
-    <category term="初衷" />
-    <category term="规划" />
-    <category term="用户思维" />
-    <category term="Push推荐" />
-    <category term="学习的底层原理" />
-    <entry>
-        <id>https://ruyiluo.github.io/2021/05/19/programming/go/Go%E5%9F%BA%E7%A1%80/</id>
-        <title>go基础</title>
-        <link rel="alternate" href="https://ruyiluo.github.io/2021/05/19/programming/go/Go%E5%9F%BA%E7%A1%80/"/>
-        <content type="html">&lt;!---more---&gt;
+<rss version="2.0">
+    <channel>
+        <title>Go for it! Just do it! • Posts by &#34;go编程&#34; category</title>
+        <link>https://ruyiluo.github.io</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 19 May 2021 16:43:00 +0800</pubDate>
+        <lastBuildDate>Wed, 19 May 2021 16:43:00 +0800</lastBuildDate>
+        <category>初衷</category>
+        <category>规划</category>
+        <category>用户思维</category>
+        <category>Push推荐</category>
+        <category>学习的底层原理</category>
+        <item>
+            <guid isPermalink="true">https://ruyiluo.github.io/2021/05/19/programming/go/Go%E5%9F%BA%E7%A1%80/</guid>
+            <title>go基础</title>
+            <link>https://ruyiluo.github.io/2021/05/19/programming/go/Go%E5%9F%BA%E7%A1%80/</link>
+            <category>初衷</category>
+            <category>规划</category>
+            <pubDate>Wed, 19 May 2021 16:43:00 +0800</pubDate>
+            <description><![CDATA[ &lt;!---more---&gt;
 &lt;h1 id=&#34;初衷&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#初衷&#34;&gt;#&lt;/a&gt; 初衷&lt;/h1&gt;
 &lt;p&gt;最近花了将近一个月的时间找实习，目前也比较顺利拿到了心仪的 offer，其中也感受到了找工作的艰辛，面试时面试官问的问题的深度和广度完全取决于面试官的兴趣，当然简历的内容以及自己对简历中内容的介绍也是引导面试官问问题的一个出发点。为了能够让自己的知识可以更加的完备，一方面需要将自己之前学的知识进行整理重新消化，另一方面对于新的知识也需要整理的有条理一些，以便于后续找工作的时候复习 (自己之前做的笔记，大部分自己是能看懂，但是久了之后发现有些内容自己记录的不是非常的完整)。&lt;/p&gt;
 &lt;h1 id=&#34;计划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#计划&#34;&gt;#&lt;/a&gt; 计划&lt;/h1&gt;
@@ -23,9 +29,7 @@
 &lt;li&gt;记录自己除了学习技术以外的思考和成长&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL3poLWNuL2RvY3MvY29tbWFuZHMuaHRtbA==&#34;&gt;hexo 基本用法&lt;/span&gt;&lt;/p&gt;
-</content>
-        <category term="初衷" />
-        <category term="规划" />
-        <updated>2021-05-19T08:43:00.000Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>
