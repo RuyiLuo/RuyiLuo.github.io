@@ -28,7 +28,7 @@
         {
             "id": "https://ruyiluo.github.io/2021/05/19/programming/go/Go%E5%9F%BA%E7%A1%80/",
             "url": "https://ruyiluo.github.io/2021/05/19/programming/go/Go%E5%9F%BA%E7%A1%80/",
-            "title": "go基础",
+            "title": "Go基础",
             "date_published": "2021-05-19T08:43:00.000Z",
             "content_html": "<!---more--->\n<h1 id=\"初衷\"><a class=\"markdownIt-Anchor\" href=\"#初衷\">#</a> 初衷</h1>\n<p>最近花了将近一个月的时间找实习，目前也比较顺利拿到了心仪的 offer，其中也感受到了找工作的艰辛，面试时面试官问的问题的深度和广度完全取决于面试官的兴趣，当然简历的内容以及自己对简历中内容的介绍也是引导面试官问问题的一个出发点。为了能够让自己的知识可以更加的完备，一方面需要将自己之前学的知识进行整理重新消化，另一方面对于新的知识也需要整理的有条理一些，以便于后续找工作的时候复习 (自己之前做的笔记，大部分自己是能看懂，但是久了之后发现有些内容自己记录的不是非常的完整)。</p>\n<h1 id=\"计划\"><a class=\"markdownIt-Anchor\" href=\"#计划\">#</a> 计划</h1>\n<ol>\n<li>整理之前学习的笔记</li>\n<li>将新知识整理的更加有条理</li>\n<li>记录自己除了学习技术以外的思考和成长</li>\n</ol>\n<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL3poLWNuL2RvY3MvY29tbWFuZHMuaHRtbA==\">hexo 基本用法</span></p>\n",
             "tags": [
